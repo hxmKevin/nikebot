@@ -1,8 +1,6 @@
 # nikebot NIKE AKAMAI BOT NIKE监控 nike补货监控 nike抽签 snrks
-# nikebot NIKE AKAMAI BOT NIKE监控 nike补货监控 nike抽签 snrks
 ----------------------------------------------------
-
-背景:
+### 背景：
 
 ​		研究nikebot有一段时间了，但是遇到了诸多问题，如何过akamai，如何破解akami(破盾)，如何获取监控接口，监控接口是否响应及时(非缓存)，如何破登录、如何批量登录authorization、如何批量同时抢购几千双鞋、如何查询货品是否为热品；如何破折扣码，如何0.01秒内拿到货品，如何通过一次数据包获取订单;
 
