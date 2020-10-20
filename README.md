@@ -1,10 +1,14 @@
-# nikebot NIKE AKAMAI BOT NIKE监控 nike补货监控 nike抽签 snrks
+耐克BOT\snkrs
 ----------------------------------------------------
 因个人原因，出手一套bot源码；(仅用于学习交流，不得从事任何非法用途；本人不承担一切衍生责任)
 
 联系QQ:80258153  (不打算购买，只想套技术的勿扰)
 联系QQ:80258153 (不打算购买，只想套技术的勿扰)
-
+![BSAsJI.png](https://s1.ax1x.com/2020/10/20/BSAsJI.png)
+![BSAgQf.png](https://s1.ax1x.com/2020/10/20/BSAgQf.png)
+![BSAyWt.png](https://s1.ax1x.com/2020/10/20/BSAyWt.png)
+![BSAcSP.png](https://s1.ax1x.com/2020/10/20/BSAcSP.png)
+![BSArFA.png](https://s1.ax1x.com/2020/10/20/BSArFA.png)
 众所周知，真正的玩家，都是几千-大几万双的拿货,抽签的更是几十万账号的并发,nikebot 难度非常高。主要体现在过akamai（俗称过盾）；
 
 而一般想新手可能还苦于 如何批量登录，模拟购买数据包等流程中，搞不清监控接口是如何做到等问题。
