@@ -5,11 +5,12 @@
 
 联系QQ:80258153 (不打算购买，只想套技术的勿扰)
 联系QQ:80258153 (不打算购买，只想套技术的勿扰)
-![BSAsJI.png](https://s1.ax1x.com/2020/10/20/BSAsJI.png)
-![BSAgQf.png](https://s1.ax1x.com/2020/10/20/BSAgQf.png)
-![BSAyWt.png](https://s1.ax1x.com/2020/10/20/BSAyWt.png)
-![BSAcSP.png](https://s1.ax1x.com/2020/10/20/BSAcSP.png)
-![BSArFA.png](https://s1.ax1x.com/2020/10/20/BSArFA.png)
+
+[![DWYv1U.md.jpg](https://s3.ax1x.com/2020/11/30/DWYv1U.md.jpg)](https://imgchr.com/i/DWYv1U)
+[![DWtC7R.md.png](https://s3.ax1x.com/2020/11/30/DWtC7R.md.png)](https://imgchr.com/i/DWtC7R)
+[![DWt9B9.md.png](https://s3.ax1x.com/2020/11/30/DWt9B9.md.png)](https://imgchr.com/i/DWt9B9)
+[![DWYxcF.md.png](https://s3.ax1x.com/2020/11/30/DWYxcF.md.png)](https://imgchr.com/i/DWYxcF)
+[![DWtpnJ.md.png](https://s3.ax1x.com/2020/11/30/DWtpnJ.md.png)](https://imgchr.com/i/DWtpnJ)
 众所周知，真正的玩家，都是几千-大几万双的拿货,抽签的更是几十万账号的并发,nikebot 难度非常高。主要体现在过akamai（俗称过盾）；
 
 而一般想新手可能还苦于 如何批量登录，模拟购买数据包等流程中，搞不清监控接口是如何做到等问题。
